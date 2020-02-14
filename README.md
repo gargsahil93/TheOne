@@ -1,6 +1,8 @@
 # TheOne
 use this to start a new test, contains basic structure
 
-# To get started
-1- npm i
-2- webpack --watch
+# npm init
+npm i
+
+#dev build
+npm run start
