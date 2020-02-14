@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100%;
+    background-color: beige;
+}
+
+.top-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    width: 100%;
+}
+.top-nav .header {
+    width: 90%;
+}
+.top-nav .right-options {
+    width: 10%;
+    margin: auto;
+}
+
+.main-content {
+    padding-top: 100px;
+}
