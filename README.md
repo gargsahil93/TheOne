@@ -6,4 +6,5 @@ npm i
 
 #dev build
 npm run start
+
 open index.html after running above command
